@@ -1,1 +1,2 @@
-# 3D_Arena_Project
+# 3DArenaTest
+Test task for the position of Junior C# Unity developer.
